@@ -1,0 +1,2 @@
+https://api.proxyscrape.com/v2/?request=getproxies&protocol=http&timeout=10000&country=all (You can change http with the proxy type you're looking for)
+https://www.proxy-list.download/api/v1/get?type=http (You can change http with the proxy type you're looking for)
