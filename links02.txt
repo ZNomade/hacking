@@ -1,0 +1,5 @@
+https://www.wolf.university/linuxfirewalls/ebook/linuxfirewalls.pdf
+https://www.wolf.university/linuxdevicedrivers/ebook/linuxdevicedrivers.pdf
+https://www.wolf.university/linuxbasicsforhackers/ebook/linuxbasicsforhackers.pdf
+https://www.wolf.university/linuxformakers/ebook/linuxformakers.pdf
+https://www.wolf.university/linuxinanutshell/ebook/linuxinanutshell.pdf

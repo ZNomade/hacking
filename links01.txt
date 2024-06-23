@@ -1,0 +1,3 @@
+https://www.wolf.university/websecurity/ebook/websecurity.pdf
+https://www.wolf.university/webscrapingwithpython/ebook/webscrapingwithpython.pdf
+https://www.wolf.university/typerules/ebook/typerules.pdf
